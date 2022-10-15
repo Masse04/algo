@@ -17,7 +17,4 @@ BEGIN
         END_IF
     END_FOR
     write('le nombre de caractere est : ', i ,' le nombre de mot est : ', k,' le nombre de voyelle est : ',v)
-    write()
-    write()
-
 END
